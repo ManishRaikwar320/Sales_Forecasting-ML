@@ -1,4 +1,4 @@
-# 📊 Sales & Demand Forecasting (FUTURE_ML_01)
+# 📊 Sales & Demand Forecasting
 
 ## 🚀 Project Overview
 This project focuses on forecasting future sales or demand using historical business data.  
